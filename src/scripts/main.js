@@ -26,4 +26,4 @@ function cloneSecondColumnBeforeLast() {
   });
 }
 
-cloneSecondColumnBeforeLast(table);
+cloneSecondColumnBeforeLast();
